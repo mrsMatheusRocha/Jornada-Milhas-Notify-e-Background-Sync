@@ -1,0 +1,12 @@
+{
+  "reservas": [
+    {
+      "id": "b1a7",
+      "data_ida": "2024-07-01",
+      "data_volta": "2024-07-10",
+      "origem": "São Paulo",
+      "destino": "Chile",
+      "tipo": "Pacote Completo"
+    }
+  ]
+}
