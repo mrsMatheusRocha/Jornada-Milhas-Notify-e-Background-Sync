@@ -13,8 +13,6 @@ Neste estágio de desenvolvimento, o site possui as seguintes funcionalidades:
 - Roteamento de páginas com React Router DOM
 - A aplicação já é uma PWA, pode ser instalada e funcionar totalmente offline e em baixas conexões de rede
 
-O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/C9Hwa6VpPKLSM6pJVCMZgI/Jornada-Milhas-%7C-React-Service-Workers?type=design&node-id=0-1&mode=design&t=rZNRLbySPNz2Ugjf-0).
-
 ## ✔️ Técnicas e tecnologias utilizadas
 
 O projeto utiliza as seguintes tecnologias e bibliotecas:
