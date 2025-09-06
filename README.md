@@ -1,5 +1,3 @@
-![Jornada Milhas](thumb.png)
-
 # Jornada Milhas
 
 Explore o Jornada Milhas: seu guia de viagens para aventuras sem limites! Encontre inspiração, planeje suas jornadas e aproveite ofertas incríveis. Estamos em desenvolvimento e em breve, nossa funcionalidade PWA para acesso rápido em qualquer lugar!
@@ -59,11 +57,5 @@ npm install
 ```bash
 npm run dev
 ```
-
-## 📚 Mais informações do curso
-
-Gostou do projeto e quer conhecer mais?
-
-O design e protótipo deste projeto podem ser encontrados [aqui](https://www.figma.com/file/C9Hwa6VpPKLSM6pJVCMZgI/Jornada-Milhas-%7C-React-Service-Workers?type=design&node-id=0-1&mode=design&t=rZNRLbySPNz2Ugjf-0). 
 
 Aproveite o desenvolvimento e aprimoramento da Jornada Milhas!
